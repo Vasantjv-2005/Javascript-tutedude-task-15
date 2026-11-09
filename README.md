@@ -3,6 +3,8 @@
 ## Objective
 The objective of this project is to create JavaScript functions that perform different operations on an array, such as finding the maximum number, calculating the sum of all elements, and counting odd numbers.
 
+<img width="1847" height="346" alt="image" src="https://github.com/user-attachments/assets/24522b68-38df-41f2-9783-379e3e7678d1" />
+
 ## Tasks Performed
 
 This program performs the following operations:
